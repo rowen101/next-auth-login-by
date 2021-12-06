@@ -3,9 +3,8 @@
 
 ## Demo: https://nextauth-demo-delete.vercel.app
 
-## Author: Dev AT
+## Author: Rowen
 
-## Youtube tutorials: https://youtu.be/v6LoiRHRQzA
 
 ## Setup Project
 ### `npm install` and connect to your mongodb and add info in .env
@@ -16,19 +15,6 @@
 
 ## Project runs on http://localhost:3000
 
-## 🔥 Donate
-> + 👉 Buy Me a Coffee . Thank You ! 💗 :
-> + 👉 https://www.buymeacoffee.com/QK1DkYS
-> + 👉 Paypal : https://paypal.me/tuananh251192
 
-### 👻👻VietNam: 
-> + 👉Vietcombank: 0061001044348 (LE TUAN ANH)
-> + 👉Momo : 0374481936
-
-### Interface 
-
-![alt](https://res.cloudinary.com/devat-channel/image/upload/v1633239515/images/Screenshot_2021-10-03_123448_mugduc.png)
-
-![alt](https://res.cloudinary.com/devat-channel/image/upload/v1633239515/images/Screenshot_2021-10-03_123603_rlxdbe.png)
 
 
